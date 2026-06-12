@@ -1,6 +1,6 @@
 # ESP32 Server and Firebase Realtime Database
 
-A two-part IoT project built with an ESP32 microcontroller. Part 1 creates a Wi-Fi access point web server to control LEDs. Part 2 connects the ESP32 to a Firebase Realtime Database to read sensor data and control devices from a standalone webapp.
+This IoT project was built with an ESP32 microcontroller. Part 1 creates a Wi-Fi access point web server to control LEDs. Part 2 connects the ESP32 to a Firebase Realtime Database to read sensor data and control devices from a standalone webapp.
 
 > **Note:** Both sketches contain placeholder credentials marked with `[YOUR_...]`. Replace these with your own values before flashing to the ESP32.
 
